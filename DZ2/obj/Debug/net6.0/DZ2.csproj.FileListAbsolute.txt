@@ -1,0 +1,15 @@
+F:\My Drive\GeekBrains\C# DZ\DZ2\bin\Debug\net6.0\DZ2.exe
+F:\My Drive\GeekBrains\C# DZ\DZ2\bin\Debug\net6.0\DZ2.deps.json
+F:\My Drive\GeekBrains\C# DZ\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+F:\My Drive\GeekBrains\C# DZ\DZ2\bin\Debug\net6.0\DZ2.dll
+F:\My Drive\GeekBrains\C# DZ\DZ2\bin\Debug\net6.0\DZ2.pdb
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.dll
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.pdb
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+F:\My Drive\GeekBrains\C# DZ\DZ2\obj\Debug\net6.0\ref\DZ2.dll
